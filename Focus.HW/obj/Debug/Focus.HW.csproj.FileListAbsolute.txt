@@ -1,0 +1,15 @@
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\bin\Debug\Focus.HW.exe.config
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\bin\Debug\Focus.HW.exe
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\bin\Debug\Focus.HW.pdb
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.csproj.AssemblyReference.cache
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\MainWindow.g.cs
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\App.g.cs
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW_MarkupCompile.cache
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW_MarkupCompile.lref
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\MainWindow.baml
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.g.resources
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.Properties.Resources.resources
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.exe
+C:\Users\Rog\source\repos\Focus.HW\Focus.HW\obj\Debug\Focus.HW.pdb
